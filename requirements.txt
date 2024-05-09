@@ -1,4 +1,5 @@
 jupyter
+ipykernel
 pandas
 numpy
 matplotlib
@@ -16,3 +17,7 @@ gensim
 pyLDAvis
 bokeh
 inflect
+torch
+transformers
+adjustText
+TextBlob
